@@ -10,4 +10,4 @@ How to use:
 6. Change the server port if necessary (default: 8000).
 7. Run the program.
 8. Open your browser.
-9. Enter the IPv4 address and server port that you have typed in address bar (example: 192.168.0.14:8000/index.html).
+9. Enter the IPv4 address and server port that you have typed before in address bar (example: 192.168.0.14:8000/index.html).
