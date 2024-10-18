@@ -2,7 +2,7 @@ import socket
 import threading
 import time
 
-server_address = ('192.168.0.14', 6969)
+server_address = ('192.168.0.14', 8000)
 buffersize = 1024
 
 def handle_client(conn, addr):
